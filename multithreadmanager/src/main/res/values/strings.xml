@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultithreadManager</string>
+    <string name="no_internet">Internet chậm hoặc không có internet. Vui lòng kiểm tra kết nối và thử lại.</string>
+</resources>
